@@ -5,3 +5,16 @@
 - Instalação:
 
 > git clone https://github.com/rodricbr/driblar-nmap/dibre.git
+
+> cd driblar-nmap/;ls
+
+> chmod +x dibre.sh
+
+- Uso:
+
+> bash dibra.sh
+
+```markdown
+Opção 1: Driblar o NMAP
+Opção 2: Voltar às condições padrão
+```
