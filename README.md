@@ -1,6 +1,7 @@
 <h1 align="center">Driblar Nmap</h1> </br>
 
-### Programa feito para driblar/confundir scans feitos por alguém na sua rede usando NMAP </br> </br>
+### Programa feito para driblar/confundir scans feitos pelo NMAP por algum atacante na sua rede! </br>
+### O atacante não vai conseguir coletar nenhuma informação sobre portas ou sistema operacional rodando </br> </br>
 
 </br>
 
