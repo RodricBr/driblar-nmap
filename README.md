@@ -12,7 +12,9 @@
 
 ## - Uso:
 
-> bash dibra.sh
+> bash dibra.sh   OU   ./dibra.sh
+
+## - Opções:
 
 ```markdown
 Opção 1: Driblar o NMAP
