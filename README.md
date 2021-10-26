@@ -15,7 +15,9 @@
 
 ## - Uso:
 
-> sudo bash dibra.sh --OU-- sudo ./dibra.sh
+> sudo bash dibra.sh
+
+> sudo ./dibra.sh
 
 ## - Opções:
 
