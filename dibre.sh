@@ -18,5 +18,5 @@ else
   exit 1
 fi
 
-echo -e "Para testar, rode esse comando:"
-echo -e '\x1b[32msudo nmap --script=qscan 127.0.0.1 -n -vvv --ttl=128 -Pn --reason --top-ports=10\x1b[00m\n'
+# Para testar, rode esse comando:
+# sudo nmap --script=qscan 127.0.0.1 -n -vvv --ttl=128 -Pn --reason --top-ports=10
