@@ -10,7 +10,7 @@
 
 > chmod +x dibre.sh
 
-- Uso:
+- # Uso:
 
 > bash dibra.sh
 
