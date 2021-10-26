@@ -6,7 +6,7 @@
 
 ## - Instalação:
 
-> git clone https://github.com/rodricbr/driblar-nmap/dibre.git
+> git clone https://github.com/rodricbr/driblar-nmap.git
 
 > cd driblar-nmap/;ls
 
