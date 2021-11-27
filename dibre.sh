@@ -14,7 +14,9 @@ elif [[ "$opc_" == "2" ]]; then
   sudo iptables -F
   exit 0
 else
-  echo -e "iptables não instalado no seu sistema!\n"
+  [[ -z "$(command -v iptables)" ]] &&
+    echo -e "iptables não está instalado no seu sistema!\n"
+  #echo -e "iptables não instalado no seu sistema!\n"
   exit 1
 fi
 
