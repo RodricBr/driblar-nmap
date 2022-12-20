@@ -6,18 +6,17 @@
 </br>
 
 ## - Instalação:
-
-> git clone https://github.com/rodricbr/driblar-nmap.git
-
-> cd driblar-nmap/
-
-> chmod +x dibre.sh
+```console
+$ git clone https://github.com/rodricbr/driblar-nmap.git
+$ cd driblar-nmap/
+$ chmod +x dibre.sh
+```
 
 ## - Uso:
-
-> sudo bash dibre.sh
-
-> sudo ./dibre.sh
+```console
+$ sudo bash dibre.sh
+$ sudo ./dibre.sh
+```
 
 ## - Opções:
 
