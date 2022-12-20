@@ -20,6 +20,6 @@ $ sudo ./dibre.sh
 
 ## - Opções:
 
-> Opção 1: Driblar o NMAP.
+> Opção 1: Driblar o NMAP. <br>
 > Opção 2: Voltar ao normal.
 
