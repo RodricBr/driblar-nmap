@@ -9,7 +9,7 @@
 
 > git clone https://github.com/rodricbr/driblar-nmap.git
 
-> cd driblar-nmap/;ls
+> cd driblar-nmap/
 
 > chmod +x dibre.sh
 
