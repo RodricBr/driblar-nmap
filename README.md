@@ -20,7 +20,6 @@ $ sudo ./dibre.sh
 
 ## - Opções:
 
-```markdown
-Opção 1: Driblar o NMAP
-Opção 2: Voltar às condições padrão
-```
+> Opção 1: Driblar o NMAP.
+> Opção 2: Voltar ao normal.
+
